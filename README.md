@@ -1,2 +1,2 @@
-# skillz_bot
+# skillz bot
 let's win this sh*t
